@@ -1,0 +1,9 @@
+Dockerfile
+.github
+node_modules
+.gitignore
+Makefile
+README.md
+shell.nix
+/.idea
+.idea
